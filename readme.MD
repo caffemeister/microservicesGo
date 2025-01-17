@@ -1,0 +1,1 @@
+For the sake simplicity, in the course, some files were re-used (i.e. helpers.go was copied and pasted throughout the different services) instead of a new package being created and used as one-for-all. This is unfortunate, but I followed along just to not cause issues. In a real production env, the copy-pasting shouldn't be done.
